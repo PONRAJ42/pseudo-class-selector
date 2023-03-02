@@ -1,0 +1,17 @@
+/*pseudo class selector*/
+a:link{
+	color:red;
+}
+a:visit{
+	color:pink;
+}
+a:hover{
+	color:orange;
+	font-size:45px;
+}
+a:active{
+	color:pink;
+}
+p{
+	font-size:20px;
+}https://ff.garena.com/en/
